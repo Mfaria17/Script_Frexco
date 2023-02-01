@@ -1,0 +1,5 @@
+Para rodar o script desenvolvido basta executar o sequinte comando
+
+python script.py dados.csv
+
+onde script.py é o nome dado ao script feito e dados.csv é o arquivo contendo os dados passados ao script. 
